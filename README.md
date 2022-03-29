@@ -8,6 +8,6 @@
 
 3.`npm start` to run the app 
 
-4. `npx json-server --watch data/db.json --port 8000` to run the json server else will get the error `could not fetch the data for that resource`
+4.`npx json-server --watch data/db.json --port 8000` to run the json server else will get the error `could not fetch the data for that resource`
 
-5. You'll get an error page when you go to a url that doesn't exist 
+5.You'll get an error page when you go to a url that doesn't exist 
