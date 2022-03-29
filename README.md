@@ -4,7 +4,7 @@
 ## Instructions
 1.Install Node.js version 15+
 
-2.Fork and clone repository
+2.Clone the repository
 
 3.`npm start` to run the app 
 
