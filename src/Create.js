@@ -21,7 +21,7 @@ const Create = () => {
       body: JSON.stringify(blog)
     }).then(() => {
       console.log('new blog added');
-      setIsPending(false);
+      setIsPending(false)
      // history.go(-1)
      history.push('/');
     })

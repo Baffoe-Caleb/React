@@ -72,7 +72,7 @@
 
 /* create new blog form */
 .create {
-  max-width: 500px;
+  max-width: 400px;
   margin: 0 auto;
   text-align: center;
 }
@@ -100,4 +100,43 @@
   padding: 8px;
   border-radius: 8px;
   cursor: pointer;
+}
+.not-found {
+  /* border: 1px solid green; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5%;
+}
+.not-found h2{
+font-size: 100px;
+margin-bottom: 10px;
+text-align: left;
+}
+.not-found h3{
+  font-size: 20px;
+  text-align: left;
+  margin-bottom: 5px;
+}
+.not-found p{
+  font-size: 20px;
+  text-align: left;
+  margin-bottom: 5px;
+}
+.not-found img{
+  float: right;
+  width: 300px;
+  height: 300px;
+  padding: 0px;
+  margin-bottom: 5px;
+  /* border: 1px solid red; */
+  /* flex: 1; */
+
+
+}
+
+.not-found .yaro{
+  display: flex;
+  flex-direction: column;
+  /* flex: 1; */
 }
